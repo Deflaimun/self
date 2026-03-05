@@ -8,16 +8,21 @@ Open to remote work worldwide.
 
 ---
 
-##### paulohtb6@gmail.com | Rio de Janeiro, Brazil
+##### Rio de Janeiro, Brazil
 
 ## Core Skills
 
-**Languages:** Python, Java, JavaScript, SQL
-**Documentation:** Antora, Docusaurus, Astro/Starlight, VuePress, Remark, AsciiDoc, Markdown, API documentation
-**Cloud & DevOps:** AWS, Docker, GitHub Actions, Jenkins, Buildkite, Vercel, Cloudflare, Netlify, Nx, CI/CD pipelines
-**Databases:** Oracle, PostgreSQL, MySQL
-**Frameworks:** Spring Boot, FastAPI, React, Node.js
-**Tools:** Claude Code, Kafka/Redpanda, Redpanda Connect, Salesforce, Git, Algolia, PostHog, Kapa.ai
+- **Languages:** Python, Java, JavaScript, SQL
+ 
+- **Documentation:** Antora, Docusaurus, Astro/Starlight, VuePress, Remark, AsciiDoc, Markdown, API documentation
+  
+- **Cloud & DevOps:** AWS, Docker, GitHub Actions, Jenkins, Buildkite, Vercel, Cloudflare, Netlify, Nx, CI/CD pipelines
+  
+- **Databases:** Oracle, PostgreSQL, MySQL
+  
+- **Frameworks:** Spring Boot, FastAPI, React, Node.js
+  
+- **Tools:** Claude Code, Kafka/Redpanda, Redpanda Connect, Salesforce, Git, Algolia, PostHog, Kapa.ai
 
 ---
 
